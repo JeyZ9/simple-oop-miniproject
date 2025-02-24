@@ -1,4 +1,4 @@
-class Product {
+export class Product {
     private readonly id:string;
     private name:string;
     private price:number;
